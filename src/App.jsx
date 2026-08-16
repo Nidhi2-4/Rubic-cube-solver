@@ -291,7 +291,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="w-full border-t border-slate-800/80 py-4 px-6 text-center text-xs text-slate-400 mt-auto glass-panel">
-        <p>Interactive 3x3 Rubik's Cube Scanner & 3D Solver App • Kociemba Algorithm & Three.js</p>
+        <p>FixMyCube • AI 3x3 Rubik's Cube Scanner & 3D Solver Studio</p>
       </footer>
     </div>
   );

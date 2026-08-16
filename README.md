@@ -1,4 +1,4 @@
-# 🧊 Rubik's Cube AI Scanner & 3D Solver App
+# 🧊 FixMyCube - 3D Rubik's Cube Scanner & Solver Studio
 
 An interactive 3x3 Rubik's Cube web application featuring live webcam scanning, HSV color classification, 2D net review & editing, solvability state validation, client-side Kociemba 2-phase solving algorithm, and a 3D move-by-move animated player.
 

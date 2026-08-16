@@ -28,10 +28,10 @@ export default function Navbar({
             <Box className="w-6 h-6 text-white animate-pulse" />
           </div>
           <div>
-            <h1 className="text-lg font-bold text-white tracking-tight flex items-center gap-2">
-              Rubik's Solver <span className="text-xs px-2 py-0.5 rounded-full bg-blue-500/20 text-blue-400 border border-blue-500/30">AI 3D</span>
+            <h1 className="text-xl font-extrabold text-white tracking-tight flex items-center gap-2">
+              FixMyCube <span className="text-xs px-2 py-0.5 rounded-full bg-blue-500/20 text-blue-400 border border-blue-500/30 font-normal">AI 3D</span>
             </h1>
-            <p className="text-xs text-slate-400">Scanner & Kociemba Move Player</p>
+            <p className="text-xs text-slate-400">Camera Scanner & 3D Solver Studio</p>
           </div>
         </div>
 
